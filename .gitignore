@@ -3,6 +3,7 @@
 .venv
 .env
 .DS_Store
+.gitkeep
 
 *.pyc
 __pyache__
