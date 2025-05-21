@@ -85,3 +85,6 @@ class ProductRepository:
         db.commit()
         db.refresh(product)
         return product
+
+
+product_repository = ProductRepository()
